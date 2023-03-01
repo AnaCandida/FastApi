@@ -4,7 +4,9 @@ metadata:
   name: FastApi
   annotations:
     github.com/project-slug: AnaCandida/FastApi
+    backstage.io/techdocs-ref: dir:.
+
 spec:
-  type: other
-  lifecycle: unknown
+  type: api
+  lifecycle: homol
   owner: guests
