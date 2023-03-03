@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: FastApi
+  annotations:
+    github.com/project-slug: AnaCandida/FastApi
+spec:
+  type: other
+  lifecycle: unknown
+  owner: school-devops
